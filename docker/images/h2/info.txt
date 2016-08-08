@@ -1,0 +1,5 @@
+# Create DUMP:
+SCRIPT TO 'fileName'
+
+# Load Dump:
+RUNSCRIPT FROM 'fileName'
