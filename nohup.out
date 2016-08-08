@@ -18,3 +18,4 @@ OpenJDK 64-Bit Server VM warning: ignoring option MaxPermSize=350m; support was 
 [  55222]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Spring) or icon jar:file:/home/maik/idea-IU-145.597.3/plugins/Spring/lib/spring-api.jar!/icons/springToolWindow.png 
 [  55616]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Database) or icon jar:file:/home/maik/idea-IU-145.597.3/plugins/DatabaseTools/lib/database-openapi.jar!/icons/toolWindowDatabase.png 
 [ 120953]  ERROR - jediterm.terminal.TerminalMode - Mode InsertMode is not implemented, setting to false 
+[ 267484]  ERROR - jediterm.terminal.TerminalMode - Mode InsertMode is not implemented, setting to false 
